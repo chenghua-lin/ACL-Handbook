@@ -5,7 +5,7 @@
 | Name          | Affiliation          | Contact                     |
 |---------------|----------------------|-----------------------------|
 | Benjamin Roth | University of Vienna | benjamin.roth@univie.ac.at  |
-| Eleni Ilkou   | University of Vienna | dagmar.gromann@univie.ac.at |
+| Dagmar Gromann| University of Vienna | dagmar.gromann@univie.ac.at |
 
 ---
 
