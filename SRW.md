@@ -64,6 +64,10 @@ A number of decisions can be made by the SRW Chairs, including:
 | Set up OpenReview                                                              | November 2024 | November 2024              | -                                       | Follow main conference timeline for camera-ready versions.                                                                      |
 | Contact Reviewers                                                              | November 2024 | March  2025                | -                                       | Ensure diverse expertise; aim for 3 reviews/paper.                                                                              |  
 | Plan & Publicize Call for SRW Papers                                           | November 2024 | Paper submission deadline. | Must be approved by the Program Chairs. | [Example Call for SRW papers.](https://2024.aclweb.org/calls/student_research_workshop/)                                        | 
+| Reviewing period                                           | 23 May 2025 | 7 June 2025 | - | Aim to collect at least 3 reviews for each paper. Progress is only 33.31% by 7 June 2025.                                        | 
+| Emergency Reviewing period                                           | 7 June 2025 | 13 June 2025 | - | Aim to collect at least 3 reviews for each paper. Progress is only 94.43% by 13 June 2025.                                        | 
+| Decision period                                           | 16 June 2025 | 22 June 2025 | - | Make decisions on acceptance(oral/poster)/rejection based on the reviews.                                        | 
+| Submission Revision period                                           | 22 June 2025 | 2 July 2025 | - |  Collect all camera ready versions, student proofs and signed ACL Copyright Transfer Agreement forms from accepted authors. Make sure authors have openreview account                                       | 
 
 ---
 
@@ -73,8 +77,9 @@ The purpose of the Mentorship program is to allow student researchers to discuss
 
 | Task                               | Start       | Deadline   | Dependency | Notes                                                                                     |  
 |------------------------------------|-------------|------------|------------|-------------------------------------------------------------------------------------------|  
-| Identify mentor candidates         | January     | March 2025 | -          | Prioritize experienced researchers while maintaining demographic and expertise diversity. |  
-| Assign mentees                     | TBD         | TBD        | -          | Pair based on research interests; offer pre/post-submission guidance.                     |  
+| Identify mentor candidates         | January 2025     | March 2025 | -          | Prioritize experienced researchers while maintaining demographic and expertise diversity. |  
+| Assign mentees                     | April 2025        | April 2025        | -          | Pair based on research interests.                     |
+| Distribute Mentor Feedback to Mentees        | May 2025        | May 2025        | -          | Offer presubmission guidance.   |
  
 
 ---
@@ -93,4 +98,4 @@ ACL strongly encourages students with financial hurdles to apply for both studen
 | Submit Meeting Fund Application         | November 2024 | March 2025   | Financial approval from ACL Treasurer. |                                                                                                                                                                                                                                                                           |
 | Negotiate Main Conference Sponsorship   | March 2025    | April 2025   | -                                      | Secure shared funding for student travel.                                                                                                                                                                                                                                 |  
 | Publicize Call for Subsidy Applications | March 2025    | March 2025   | -                                      |                                                                                                                                                                                                                                                                           |
-| Allocate Subsidies                      | April 2025    | April 2025   | Subsidy applications closed.           | **(1)** Prioritize underrepresented regions and financial need. **(2)** It is recommended to prioritize partial support to multiple students, rather than full support for a small number (if financially limited). **(3)** Travel grants require ACL Treasurer approval. |  
+| Allocate Subsidies                      | June 2025    | June 2025   | Subsidy applications closed.           | **(1)** Prioritize underrepresented regions and financial need. **(2)** It is recommended to prioritize partial support to multiple students, rather than full support for a small number (if financially limited). **(3)** Travel grants require ACL Treasurer approval. |  
