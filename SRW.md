@@ -66,8 +66,8 @@ A number of decisions can be made by the SRW Chairs, including:
 | Plan & Publicize Call for SRW Papers                                           | November 2024 | Paper submission deadline. | Must be approved by the Program Chairs. | [Example Call for SRW papers.](https://2024.aclweb.org/calls/student_research_workshop/)                                        | 
 | Reviewing period                                           | 23 May 2025 | 7 June 2025 | - | Aim to collect at least 3 reviews for each paper. Progress is only 33.31% by 7 June 2025.                                        | 
 | Emergency Reviewing period                                           | 7 June 2025 | 13 June 2025 | - | Aim to collect at least 3 reviews for each paper. Progress is only 94.43% by 13 June 2025.                                        | 
-| Decision period                                           | 16 June 2025 | 22 June 2025 | - | Make decisions on acceptance(oral/poster)/rejection based on the reviews.                                        | 
-| Submission Revision period                                           | 22 June 2025 | 2 July 2025 | - |  Collect all camera ready versions, student proofs and signed ACL Copyright Transfer Agreement forms from accepted authors. Make sure authors have openreview account                                       | 
+| Decision period                                           | 16 June 2025 | 22 June 2025 | - | Make decisions on acceptance(oral/poster)/rejection based on the reviews. **Get in touch with the publication chairs to organize the timeline for providing proceedings.**                                       | 
+| Submission Revision period                                           | 22 June 2025 | 2 July 2025 | - |  **IMPORTANT**: This deadline is **very time-sensitive**, as all proceedings must be finalized 2–3 weeks before the conference begins. Collect all camera ready versions, student proofs and signed ACL Copyright Transfer Agreement forms from accepted authors. Make sure authors have openreview account.                                       | 
 
 ---
 
