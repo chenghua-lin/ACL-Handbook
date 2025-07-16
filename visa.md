@@ -11,7 +11,8 @@
 
 ## Overview of Responsibilities
 
-The Visa Chairs at *CL conferences are responsible for assisting members of the ACL Community with the process of gaining visas to attend ACL activities. \
+The Visa Chairs at *CL conferences are responsible for assisting members of the ACL Community with the process of gaining visas to attend ACL activities. 
+
 **The following are the main responsibilities of the Visa Chairs:**
 
 **1. Cross-Committee Documentation Preparation**\
