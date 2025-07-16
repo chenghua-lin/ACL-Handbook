@@ -5,7 +5,7 @@
 |----------------------|----------------------|-----------------------------|
 | Raffaella Bernardi   | University of Trento | raffaella.bernardi@unitn.it |
 | Thomas Scialom       | MetaAI               | tscialom@meta.com           |
-| Chris Callison-Burch | -                    | -                           |
+| Chris Callison-Burch | ACL Sponsorship Director / University of Pennsylvania | ccb@seas.upenn.edu |
 
 ---
 
