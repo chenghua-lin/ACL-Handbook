@@ -30,7 +30,7 @@ The primary task involves managing incoming emails sent to conference mailing li
 | Task                                    | Start     | Deadline  | Dependency           | Notes                                                                                                                                    |
 |-----------------------------------------|-----------|-----------|----------------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | Get in touch with last year's chairs    | ASAP      | July 2025 | -                    | Contact previous IC chairs for guidance, templates, and procedures from previous conferences.                                             |
-| Email Distribution and Categorization   | Apr 2025  | July 2025 | Freshdesk setup      | Categorize and forward incoming emails to appropriate chairs via Freshdesk. Provide brief summaries for complex tickets to help prioritization. |
+| Email Distribution and Categorization   | Mar 2025  | July 2025 | Freshdesk setup      | Categorize and forward incoming emails to appropriate chairs via Freshdesk. Provide brief summaries for complex tickets to help prioritization. |
 
 ---
 
@@ -51,8 +51,8 @@ Respond directly to participant emails when information is readily available, en
 
 | Task                                    | Start     | Deadline  | Dependency           | Notes                                                                                                                                    |
 |-----------------------------------------|-----------|-----------|----------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| Create response templates               | Mar 2025  | Apr 2025  | -                    | Prepare standardized templates for common inquiries to ensure quick and consistent responses                                              |
-| Email Responses                         | Apr 2025  | July 2025 | Templates ready      | Respond to emails when possible, providing clear answers. Redirect complex issues to relevant chairs or teams.                           |
+| Create response templates               | Feb 2025  | Apr 2025  | -                    | Prepare standardized templates for common inquiries to ensure quick and consistent responses                                              |
+| Email Responses                         | Apr 2025  | July 2025 | Templates ready      | Respond to emails when possible, providing clear answers. Redirect complex issues to relevant chairs or teams. **Important:** ensure that recipients (chairs, teams) always cc the original address acl2025pcs@gmail.com so ICCs can keep track of the status of the ticket.   |
 
 ---
 
@@ -71,7 +71,7 @@ Support real-time communication during the conference through Whova platform and
 
 IC chairs should prepare for escalating time commitments:
 
-- **Setup Phase (Dec 2024 - Mar 2025)**: 1 hour/day
+- **Setup Phase (Dec 2024 - Mar 2025)**: less than 1 hour/day
 - **Active Phase (Apr - May 2025)**: 2 hours/day  
 - **Pre-conference (June 2025)**: 4 hours/day
 - **Conference week**: Nearly full-time
