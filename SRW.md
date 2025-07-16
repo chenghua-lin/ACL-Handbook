@@ -1,6 +1,6 @@
 # Student Research Workshop (SRW) Chair Handbook  
 
-## [Current Team](https://2025.aclweb.org/org/):  
+## [Current Team](https://2025.aclweb.org/organization/):  
 
 ### Student Research Workshop Chairs
 | Name          | Affiliation                            | Contact                        |
