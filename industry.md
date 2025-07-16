@@ -20,6 +20,7 @@ The Industry Track Chairs at *CL conferences are responsible for handling submis
 **4. Industry Panels & Invited Speakers**\
 **5. Industry Track Reviewing**\
 **6. Industry Track Timetabling & Proceedings Management**
+
 ---
 
 ## Breakdown of Responsibilities
