@@ -23,9 +23,9 @@ Once the workshops for a given conference have been identified, the Workshop Cha
 
 **The following are the main responsibilities of the Workshop Chairs:**
 
-**1.Cross-Committee Coordination**\
-**2.Managing Communication with ACL Workshop Organizers**\
-**3.Workshop Infrastructure and Planning**
+**1. Cross-Committee Coordination**\
+**2. Managing Communication with ACL Workshop Organizers**\
+**3. Workshop Infrastructure and Planning**
 
 
 ---
