@@ -18,6 +18,7 @@ The Visa Chairs at *CL conferences are responsible for assisting members of the 
 **2. Creation of Visa Documentation, Visa invitation letter templates**\
 **3. Contact Embassies and State Bodies**\
 **4. Support visa applicants through the process via emails**
+
 ---
 
 While Visa Chair tasks had a stretch during almost the whole serving period in the role, we identify 3 main phases and list the tasks taking most of the effort for each of the phases.
