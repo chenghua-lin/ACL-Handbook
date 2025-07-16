@@ -78,6 +78,7 @@ The purpose of the Mentorship program is to allow student researchers to discuss
 | Task                               | Start       | Deadline   | Dependency | Notes                                                                                     |  
 |------------------------------------|-------------|------------|------------|-------------------------------------------------------------------------------------------|  
 | Identify mentor candidates         | January 2025     | March 2025 | -          | Prioritize experienced researchers while maintaining demographic and expertise diversity. |  
+| Define the Pre-Submission Mentorship Program | February 2025 | March 2025 | - | Ensure the Call for Papers includes the Pre-Submission Mentorship Program. See also the "Student Research Workshop Planning & Submission" Responsibility. 
 | Assign mentees                     | April 2025        | April 2025        | -          | Pair based on research interests.                     |
 | Distribute Mentor Feedback to Mentees        | May 2025        | May 2025        | -          | Offer presubmission guidance.   |
  
