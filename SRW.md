@@ -10,7 +10,7 @@
 | Jin Zhao      | Brandeis University                    | jinzhao@brandeis.edu           |
 
 **The chairs of the Student Research Workshop are responsible for:**
-* Assembling the program committee.
+* Assembling the SRW program committee.
 * Requesting student papers & selecting appropriate ones.
 * Arranging for their presentation (including the format, such as oral or posters, and if appropriate refreshments, presentation and computer requirements, and all other special needs).
 * Proposing travel grant recipients ([see policy on general student travel funding](https://aclweb.org/adminwiki/index.php/Student_travel_funding)) - This may include proposing funding allocations for student applicants for the full conference, not only for SRW participants. The student chairs should coordinate with the general chair and the ACL Office about this.
