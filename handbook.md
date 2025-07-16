@@ -65,7 +65,7 @@ This responsibility involves creating drafts and finalized versions of the confe
 | Task                                              | Start     | Deadline  | Dependency                                | Notes                                                                                 |
 |---------------------------------------------------|-----------|-----------|-------------------------------------------|---------------------------------------------------------------------------------------|
 | Main Conference Schedule Draft Complete           | May 2025  | June 2025 | Received "order" file from Program Chairs | Contact Program Chairs as early as possible and send repeated reminders if necessary. |
-| Receive Workshop, Tutorial & Social Event Details | July 2025 | July 2025 | Event chairs respond                      | Send reminders ~6 weeks prior to the conference. **Get in touch with the publication chairs to organize the timeline for providing proceedings.**                                     |
+| Receive Workshop, Tutorial & Social Event Details | 1 June 2025 | 15 June 2025 | Event chairs respond                      | Send reminders ~8 weeks prior to the conference.                                     |
 | First complete handbook draft (print)             | 15 June 2025 | 22 June 2025 | All content received                      | Send PDF to OmniPress for soft proof to Jenn, General Chair and Program Chairs.  **IMPORTANT**: This deadline is **very time-sensitive**, as all proceedings must be finalized 2–3 weeks before the conference begins. **Check with Jenn** for the exact time when the final version of the handbook needs to be ready for printing.    |
 | More revisions based on comments                  | 22 June 2025 | 2 July 2025 | Feedback from handbook reviewers       | Create new PDFs. It is very important that in this period chairs are available on a daily basis to compile new versions of the handbook draft. |
 
@@ -79,7 +79,7 @@ It is important to ensure everyone's name is correct and consistent across the e
 
 | Task                                      | Start                     | Deadline         | Dependency            | Notes                                                             |
 |-------------------------------------------|---------------------------|------------------|-----------------------|-------------------------------------------------------------------|
-| Final PDF sign‑off                        | July 2025                 | July 2025        | -                     | Printer deadline T–4 (print) and T–1 (digital).                   |
+| Final PDF sign‑off                        | 1 July 2025                 | 2 July 2025        | -                     | Printer deadline T–4 (print) and T–1 (digital).  |
 | Publish Online Handbook & Push to Website | July 2025                 | July 2025        | Approved final draft  | Host on GitHub Pages with search index.                           |
-| Send Handbook for Printing                | 4 weeks before conference | Conference start | -                     | Liaise with printer (usually [OmniPress](https://omnipress.com/)) |
+| Send Handbook for Printing                | 4 weeks before conference | Conference start | -                     | **Check with Jenn.** Liaise with printer (usually [OmniPress](https://omnipress.com/)) |
 | Distribute Print Handbooks Onsite         | July 2025                 | Aug 2025         | Delivery from printer | Coordinate with Local & Registration desks.                       |
