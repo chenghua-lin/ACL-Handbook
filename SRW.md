@@ -73,7 +73,9 @@ A number of decisions can be made by the SRW Chairs, including:
 
 ### 2. Student Mentorship Program  
 
-The purpose of the Mentorship program is to allow student researchers to discuss ideas and received feedback from more experienced members of the computational linguistics community. Mentorship activities may include detailed feedback on the writing and presentation of papers accepted to the SRW, or post-acceptance mentorship in the form of comments and questions during the workshop itself.
+The purpose of the Mentorship Program is to provide student researchers with an opportunity to discuss their ideas and receive constructive feedback from more experienced members of the computational linguistics community. Mentorship activities include detailed feedback on the writing, presentation, and content of submitted papers, helping authors polish their manuscripts before the final peer-review stage. 
+
+As part of the program, authors are encouraged to upload their manuscripts to a shared drive before the submission deadline. Mentors—selected from a pool of senior researchers—are then assigned one or two papers each via email. After the feedback deadline, mentors upload their comments in the form of annotated files through a shared submission form, which are then returned to the corresponding authors.
 
 | Task                               | Start       | Deadline   | Dependency | Notes                                                                                     |  
 |------------------------------------|-------------|------------|------------|-------------------------------------------------------------------------------------------|  
