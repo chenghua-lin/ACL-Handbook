@@ -186,9 +186,9 @@ In a follow-up call with the Ministry’s representative, we shared feedback and
 
 ### Task XVI: Gathering Statistics and Opening Ceremony Slides 
 
-We have so far been included in over 577 emails, including tickets from ACL Rolling Review fresh desk or direct emails. 107 contained Urgent requests, which we addressed in the 24-48 hours. Urgent emails typically required customized invitation letters, correction in invitation letters, requests to contact embassies directly to share the invitation for the applicant. 
+We have so far been included in over 600 emails, including tickets from ACL Rolling Review fresh desk or direct emails. About 120 contained Urgent requests, which we addressed in the 24-48 hours. Urgent emails typically required customized invitation letters, correction in invitation letters, requests to contact embassies directly to share the invitation for the applicant and further supporting rejected visa applications.
 
-We have developed a form to gather feedback about the ACL 2025 visa applicants application results, which we aim to share a week before the conference and present the results in the opening ceremony.
+We developed a survey to gather feedback about the ACL 2025 visa applicants application results. The survey was run a 48h before the conference and the main question was whether applicants got their visa approved in time, provided our support. From a representative set of responses, we estimated a ~90% success rate, despite all the challenges and tight period of time for applications. Visa rejections and delays came from ~70% not following our recommendations (ie. not applying in a representative Austrian embassy, or applying via VFS).
 
 ### Task XVII: Deliverables: Report and Documentation 
 
