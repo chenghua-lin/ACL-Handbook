@@ -15,7 +15,8 @@
 
 ## Overview of Responsibilities
 
-The D&I Chairs at *CL conferences are responsible for promoting diversity, equity, and inclusion by ensuring accessibility, fostering a welcoming environment, and addressing the needs of underrepresented groups within the conference community. Additionally, they must address special requests, such as wheelchair rentals and sign language interpretation, and collaborate with the local chairs to ensure these needs are met.\
+The D&I Chairs at *CL conferences are responsible for promoting diversity, equity, and inclusion by ensuring accessibility, fostering a welcoming environment, and addressing the needs of underrepresented groups within the conference community. Additionally, they must address special requests, such as wheelchair rentals and sign language interpretation, and collaborate with the local chairs to ensure these needs are met.
+
 **The following are the main responsibilities of the D&I Chairs:**
 
 **1. D&I Sponsorship and Cross-Committee Coordination**\
@@ -23,6 +24,8 @@ The D&I Chairs at *CL conferences are responsible for promoting diversity, equit
 **3. Activity Management (Birds of a Feather and Affinity Groups)**\
 **4. Help with Accessibility and Special Accommodations**\
 **5. (Optional) Organize Lunch with ACL Fellows**
+
+An excellent additional resource for D&I chairs is [this guide](https://docs.google.com/document/d/1OIbRAjpptNDsBDFE-m0rfm_HINdqXg_mhb1EZg9P2zI/edit?tab=t.0#heading=h.3u8zqogyf5cw) compiled by Sabine Weber.
 
 ---
 
@@ -80,6 +83,30 @@ This responsibility focuses on ensuring that the conference meets the accessibil
 | Finalize D&I Registration Form  Questions                        | Apr 2025                 | Before registration opens | -                                                                                         | Collaborate with Megs Haddad & Jenn Rachford to ensure alignment on questions in the registration form. Be careful with word choices to avoid unintended promises (e.g., the word "accommodation" can be interpreted as related to hotels).                                                                  | 
 | Collect Accommodation & Mentoring Requests in Registration Forms | After registration opens | July 2025                 | Registration open                                                                         | **(1)** Collaborate with Megs Haddad & Jenn Rachford. **(2)** Send mentoring requests to ACL Mentorship team. **(3)** Connect with those who request accommodations to introduce yourself and confirm their specific needs. |
 | Organize Closed Captioning | After registration opens | Before conference begins | The registration form will ask attendees whether they require closed captioning. | If closed captioning is requested by attendees, we have a legal obligation to provide it for their sessions of choice (usually the plenary sessions are sufficient, but we recommend reaching out to these attendees for more information about their needs). This cost is typically covered by the D&I Budget, so be sure to account for this in awarding D&I Subsidies. |
+
+#### Additional notes/lessons learned:
+
+* **Bringing Children to the Conference:**
+  * At some past conferences, children were not allowed at the venue without a registration badge, which is disappointing and unexpected for many attendees. Raise the question of children’s access to the venue and receptions with the ACL team (Jenn Rachford), the PC chairs, and the venue **well in advance**. 
+  * Children’s access policies need to be clearly stated in the registration form and on the website: what rooms will children be allowed in? What kind of registration will they need (if any), and what kind of registration is needed for a family member/partner who is caring for a small child?
+  * If a registration fee is needed to give children and accompanying family members access to the venue, the D&I team can consider offering childcare subsidies for this.
+* **Closed Captioning:**
+  * If closed captioning is provided, make sure attendees will know how to access captions (if they can’t be shown live onscreen).
+  * Underline should be able to share QR codes before plenary sessions for this, but be sure to ask ahead of time.
+* **D&I Room Allocation:** 
+  * Make sure the D&I-related rooms are clearly and visibly promoted at the venue.
+  * The venue will likely have various screens to direct people, and the information for these may be sent weeks in advance (contact ACL Business Team to ask them to include D&I rooms in this).
+  * Room locations can also be announced on Whova for more visibility.
+  * Check that the physical signage and the online announcements explain each room’s purpose clearly (e.g., that the quiet room serves as a break space for attendees with sensory issues and is not for working).
+* **Dietary restrictions:**
+  * Work with the venue to ensure food for attendees with dietary restrictions (e.g., Halal) is clearly labeled. Find out which food labels suit each dietary requirement (e.g., vegetarian dishes were also Halal at Austria Center Vienna).
+  * Don’t print dietary restrictions on name badges: some labels (e.g., Halal) may indicate the participant’s religion, which they may not want to publicly disclose.
+* **Registration Form Questions:**
+  * The “mentoring” questions on the registration form (“Do you have any interest in being a mentor/being mentored?”) are typically not followed up on. 
+    * At ACL 2025, we forwarded the responses to the ACL year-round mentoring team (who used them to promote a mentoring event at ACL 2025).
+  * Still, nothing is being done to match mentors and mentees. We recommend either:
+    * Changing the question to a more generic one, like “are you interested in mentoring events at the conference?”, or
+    * Starting a matching process for mentors and mentees. It might help to make the questions a bit clearer; this isn’t a long-term, formal mentoring relationship, but simply a “buddy system” that pairs new conference attendees with experienced conference attendees.
 ---
 
 ### 5. (Optional) Organize Lunch with ACL Fellows
